@@ -1,0 +1,6 @@
+{
+  "name": "PulseGuard AI",
+  "description": "AI-powered early-warning failure intelligence platform for small and medium-sized businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
